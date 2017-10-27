@@ -9,6 +9,7 @@
 
  - 显示过于粗糙，有时间的话，后续将写一个界面
  - 代码许多地方需要补充处理异常代码
+ - 程序支持常用的IEEE float 和IBM float这两种数据编码
  - 代码结构混乱
 
 **以下是核心代码具体说明：**
@@ -20,3 +21,5 @@ main.cpp   | 代码执行顺序
 segy.h     | 解析segy文件
 
 关于C++调用Python的环境配置可以看[这里](https://github.com/WenHuiXie/the-road-to-python/blob/master/VS2012%20C++%E8%B0%83%E7%94%A8Python36%E9%85%8D%E7%BD%AE%E5%8F%8A%E5%AE%9E%E7%8E%B0.md) 。
+
+关于项目的心得看[这里](https://github.com/WenHuiXie/SEGY_Visualization/wiki)。
